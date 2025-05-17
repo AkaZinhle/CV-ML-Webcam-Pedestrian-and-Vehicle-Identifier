@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1VzmJiO8IMt5SzklcMnrUXU2IBjrSvI7E
 """
 
-# Project Title: Real-Time Object Detection with YOLOv5 using Python
-
-# Install the necessary libraries (uncomment if needed)
 !pip install ultralytics
 
 # YOLOv5 and PyTorch for object detection
